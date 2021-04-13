@@ -16,5 +16,5 @@ I'm @reiirmdhn, What do you see here?
 <hr>
 
 <p align="center">
-    <img alt="Reiirmdhn GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=reiirmdhn&theme=material-palenight&show_icons=true">
+    <img alt="Reiirmdhn GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=tokyonight">
 </p>
