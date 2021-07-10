@@ -15,7 +15,7 @@ I'm @reiirmdhn, What do you see here?
         <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=Reiirmdhn"/>
     </a>
        <a href="https://sociabuzz.com/aestic/donate">
-        <img alt="Sociabuzz" src="https://img.shields.io/static/v1?style=flat&logo=sociabuzz&logoColor=white&color=%23FF0000&label=&message=Reiirmdhn"/>
+        <img alt="Sociabuzz" src="https://img.shields.io/github/watchers/reiirmdhn/reiirmdhn?label=Reiirmdhn&style=social"/>
     </a>
 </p>
 
