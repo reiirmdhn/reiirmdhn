@@ -2,6 +2,9 @@
 
 I'm @reiirmdhn, What do you see here?
 
+## Visitor Count
+  <img src="https://profile-counter.glitch.me/reiirmdhn/count.svg" />
+  
 ### :coffee: Wanna chat?
 
 <p>
@@ -11,6 +14,9 @@ I'm @reiirmdhn, What do you see here?
     <a href="https://www.youtube.com/channel/UCcSTIkB-4MhU2UccuW8JCmg/">
         <img alt="Youtube" src="https://img.shields.io/static/v1?style=flat&logo=youtube&logoColor=white&color=%23FF0000&label=&message=Reiirmdhn"/>
     </a>
+       <a href="https://sociabuzz.com/aestic/donate">
+        <img alt="Sociabuzz" src="https://img.shields.io/static/v1?style=flat&logo=sociabuzz&logoColor=white&color=%23FF0000&label=&message=Reiirmdhn"/>
+    </a>
 </p>
 
 <hr>
@@ -18,6 +24,3 @@ I'm @reiirmdhn, What do you see here?
 <p align="center">
     <img alt="Reiirmdhn GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=tokyonight">
 </p>
-
-## Visitor Count
-  <img src="https://profile-counter.glitch.me/reiirmdhn/count.svg" />
