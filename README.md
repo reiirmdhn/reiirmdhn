@@ -2,8 +2,6 @@
 
 I'm @reiirmdhn, What do you see here?
 
-## Visitor Count
-  <img src="https://profile-counter.glitch.me/reiirmdhn/count.svg" />
   
 ### :coffee: Wanna chat?
 
@@ -16,7 +14,7 @@ I'm @reiirmdhn, What do you see here?
     </a>
 </p>
 
-<h3 align="left">Support:</h3>
+# Support
 <p><a href="https://sociabuzz.com/aestic/donate"> <img align="left" src="https://sociabuzz.com/assets/img/logo.png" height="50" width="210" alt="reiirmdhn" /></a></p><br><br>
 
 # Github Stats
