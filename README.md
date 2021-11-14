@@ -1,6 +1,5 @@
-# Hi there! :milky_way:
-
-I'm @reiirmdhn, What do you see here?
+## Hey there! I'm Reiirmdhn
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=reiirmdhn&label=Views&color=blue&style=plastic" alt="reiirmdhn" /> </p>
 
 # Support
 <p><a href="https://sociabuzz.com/aestic/donate"> <img align="left" src="https://sociabuzz.com/assets/img/logo.png" height="50" width="210" alt="reiirmdhn" /></a></p><br><br>
