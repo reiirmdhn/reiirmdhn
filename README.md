@@ -16,6 +16,9 @@ I'm @reiirmdhn, What do you see here?
     </a>
 </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://sociabuzz.com/aestic/donate"> <img align="left" src="https://sociabuzz.com/assets/img/logo.png" height="50" width="210" alt="reiirmdhn" /></a></p><br><br>
+
 # Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=github_dark)
