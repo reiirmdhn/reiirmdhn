@@ -21,3 +21,7 @@ I'm @reiirmdhn, What do you see here?
 <p align="center">
     <img alt="Reiirmdhn GitHub Stats" height="160em"  src="https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=tokyonight">
 </p>
+
+# Github Stats
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=github_dark)
