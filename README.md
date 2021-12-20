@@ -1,4 +1,4 @@
-# Hey there! I'm Reiirmdhn, I just learn
+# Hey there! I'm Reiirmdhn
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiirmdhn&label=Views&color=blue&style=plastic" alt="reiirmdhn" /> </p>
 
 # Support
