@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reiirmdhn&label=Views&color=blue&style=plastic" alt="reiirmdhn" /> </p>
 
 # Support
-<p><a href="https://sociabuzz.com/aestic/donate"> <img align="left" src="https://sociabuzz.com/assets/img/logo.png" height="50" width="210" alt="reiirmdhn" /></a></p><br><br>
+<p><a href="https://sociabuzz.com/aestic/donate"> <img align="left" src="https://sociabuzz.com/blog/wp-content/uploads/elementor/thumbs/sociabuzz-logo-p5w5ysltzmux6fhxcjolaktct5nc6mz86voa2f9csg.png" height="50" width="210" alt="reiirmdhn" /></a></p><br><br>
 
 # Github Stats
 
