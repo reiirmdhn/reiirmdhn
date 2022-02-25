@@ -1,5 +1,8 @@
 # Hey there!
 
+- 🌱 Programming Enthusiast
+- ⚡ FiveM Developer (For Now!)
+
 <h3 align="left">If you want to donate me</h3>
 + https://sociabuzz.com/aestic/donate
 
