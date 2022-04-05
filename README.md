@@ -2,6 +2,9 @@
 <h3 align="center">Programming Enthusiast</h3>
 
 <h3 align="left">If you want to donate me</h3>
+<p align="left">
+<a href="https://sociabuzz.com/aestic/donate" target="blank"><img align="center" src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" alt="reiirmdhn" height="30" width="40" /></a>
+</p>
 + https://sociabuzz.com/aestic/donate
 
 <h3 align="left">Connect with me:</h3>
