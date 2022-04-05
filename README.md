@@ -1,4 +1,6 @@
+<p align="left">
 ![grab-landing-page](https://itzlarsen.xyz/uploads/images/u9m4xRqQkvQf3L7F4UFeJdxrw.gif)
+</p>
 
 <h1 align="center">Hi 👋, I'm reiirmdhn</h1>
 <h3 align="center">Programming Enthusiast</h3>
