@@ -1,8 +1,5 @@
-# Hi there!
-
-- 🌱 Programming Enthusiast
-
-- ⚡ FiveM Developer
+<h1 align="center">Hi 👋, I'm reiirmdhn</h1>
+<h3 align="center">Programming Enthusiast</h3>
 
 <h3 align="left">If you want to donate me</h3>
 + https://sociabuzz.com/aestic/donate
