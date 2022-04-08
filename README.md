@@ -9,8 +9,8 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discordapp.com/users/359328319759450113/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="reiirmdhn" height="30" width="40" /></a>
-</p>
-
+ <p align="left"><a href="https://discordapp.com/users/359328319759450113/">
+    <img src="https://img.shields.io/discord/813030955598086174?style=for-the-badge&logo=discord&labelColor=7289da&logoColor=white&color=2c2f33&label=Discord"/>
+ </a></p>
+  
 ![AESTIC GitHub stats](https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=github_dark)
