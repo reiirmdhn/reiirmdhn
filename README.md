@@ -11,4 +11,4 @@
     <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
  </a></p>
   
-![AESTIC GitHub stats](https://github-readme-stats.vercel.app/api?username=reiirmdhn&show_icons=true&theme=github_dark)
+![AESTIC GitHub stats](https://github-readme-stats.vercel.app/api?username=reiirmdhn&layout=compact&theme=react&hide_border=true)
